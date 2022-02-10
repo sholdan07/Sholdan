@@ -3,10 +3,4 @@
 
       
 
-       visitors
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?sholdan07=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-
-      
-
-       My GitHub Stats
-      
+   [![sholdan07 GitHub stats](https://github-readme-stats.vercel.app/api?username=sholdan07)](https://github.com/anuraghazra/github-readme-stats)
