@@ -3,4 +3,4 @@
 
       
 
-   [![sholdan07 GitHub stats](https://github-readme-stats.vercel.app/api?username=sholdan07)](https://github.com/anuraghazra/github-readme-stats)
+![sholdan07 GitHub stats](https://github-readme-stats.vercel.app/api?username=sholdan07&show_icons=true&theme=dark)
